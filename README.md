@@ -5,3 +5,4 @@ Footy-Tic-Tac-Toe game, based on https://playfootball.games/footy-tic-tac-toe/sa
 Tic-tac-toe template is taken from https://github.com/javascriptacademy-stash/tic-tac-toe 
 Thank you for the tutorial! 
 
+Thanks to our collaborators.
